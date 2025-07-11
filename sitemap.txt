@@ -18,6 +18,6 @@ https://silentdeep.github.io/tags/private/
 https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/
 https://silentdeep.github.io/tags/windows/
 https://silentdeep.github.io/tags/ssh/
-https://silentdeep.github.io/categories/uncategorized/
 https://silentdeep.github.io/categories/notes/
+https://silentdeep.github.io/categories/uncategorized/
 https://silentdeep.github.io/categories/computer/
