@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://silentdeep.github.io/useful-links/</loc>
+    <loc>https://silentdeep.github.io/comp-chem/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/en/index.html</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/encrypt-test/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -20,7 +38,34 @@
   </url>
   
   <url>
+    <loc>https://silentdeep.github.io/windows-ssh/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/useful-links/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://silentdeep.github.io/quotation/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/github-vpn-config/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -31,7 +76,7 @@
   <url>
     <loc>https://silentdeep.github.io/ffmpeg/</loc>
     
-    <lastmod>2025-07-10</lastmod>
+    <lastmod>2025-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +85,7 @@
   <url>
     <loc>https://silentdeep.github.io/excel/</loc>
     
-    <lastmod>2025-07-10</lastmod>
+    <lastmod>2025-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,16 +94,7 @@
   <url>
     <loc>https://silentdeep.github.io/argumentative-essay/</loc>
     
-    <lastmod>2025-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/windows-ssh/</loc>
-    
-    <lastmod>2025-07-10</lastmod>
+    <lastmod>2025-07-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -93,24 +129,6 @@
   
   <url>
     <loc>https://silentdeep.github.io/about/index.html</loc>
-    
-    <lastmod>2025-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/github-vpn-config/</loc>
-    
-    <lastmod>2025-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/encrypt-test/</loc>
     
     <lastmod>2025-07-10</lastmod>
     
@@ -163,6 +181,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://silentdeep.github.io/categories/Uncategorized/</loc>
+    <lastmod>2025-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://silentdeep.github.io/categories/Computer/</loc>
