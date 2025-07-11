@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://silentdeep.github.io/useful-links/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://silentdeep.github.io/en/index.html</loc>
     
     <lastmod>2025-07-11</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://silentdeep.github.io/windows-ssh/</loc>
-    
-    <lastmod>2025-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/useful-links/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -160,6 +160,13 @@
   </url>
   
   <url>
+    <loc>https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/</loc>
+    <lastmod>2025-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://silentdeep.github.io/tags/Windows/</loc>
     <lastmod>2025-07-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -173,14 +180,21 @@
     <priority>0.2</priority>
   </url>
   
+
+  
   <url>
-    <loc>https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/</loc>
+    <loc>https://silentdeep.github.io/categories/Notes/</loc>
     <lastmod>2025-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
+  <url>
+    <loc>https://silentdeep.github.io/categories/Computer/</loc>
+    <lastmod>2025-07-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://silentdeep.github.io/categories/Uncategorized/</loc>
@@ -190,7 +204,7 @@
   </url>
   
   <url>
-    <loc>https://silentdeep.github.io/categories/Computer/</loc>
+    <loc>https://silentdeep.github.io/categories/Uncategorized/Book/</loc>
     <lastmod>2025-07-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
