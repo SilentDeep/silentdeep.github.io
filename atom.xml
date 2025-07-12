@@ -6,7 +6,7 @@
   <link href="https://silentdeep.github.io/atom.xml" rel="self"/>
   
   <link href="https://silentdeep.github.io/"/>
-  <updated>2025-07-12T02:19:32.524Z</updated>
+  <updated>2025-07-12T08:41:01.811Z</updated>
   <id>https://silentdeep.github.io/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>DFT</title>
+    <link href="https://silentdeep.github.io/dft/"/>
+    <id>https://silentdeep.github.io/dft/</id>
+    <published>2025-07-12T07:36:53.000Z</published>
+    <updated>2025-07-12T08:41:01.811Z</updated>
+    
+    
+    <summary type="html">加密笔记，暂不公开。</summary>
+    
+    
+    
+    <category term="notes" scheme="https://silentdeep.github.io/categories/notes/"/>
+    
+    
+    <category term="private" scheme="https://silentdeep.github.io/tags/private/"/>
+    
+  </entry>
+  
+  <entry>
     <title>计算化学</title>
     <link href="https://silentdeep.github.io/comp-chem/"/>
     <id>https://silentdeep.github.io/comp-chem/</id>
     <published>2025-07-11T09:46:07.000Z</published>
-    <updated>2025-07-12T02:19:32.524Z</updated>
+    <updated>2025-07-12T07:38:35.671Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;课程&quot;&gt;&lt;a href=&quot;#课程&quot; class=&quot;headerlink&quot; title=&quot;课程&quot;&gt;&lt;/a&gt;课程&lt;/h1&gt;&lt;p&gt;University of Minnesota Chem 4021&amp;#x2F;8021 &lt;strong&gt;Computational Chemistry&lt;/strong&gt; by Prof. &lt;em&gt;Christopher J. Cramer&lt;/em&gt;: &lt;a href=&quot;https://www.bilibili.com/video/BV1Ts411J79A&quot;&gt;bilibili&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=pu4uL7deCNw&quot;&gt;YouTube&lt;/a&gt;, &lt;a href=&quot;zotero://open-pdf/library/items/VWEDRE5K&quot;&gt;Essentials of Computational Chemistry: Theories and Models&lt;/a&gt;.&lt;/p&gt;</summary>
@@ -30,6 +49,8 @@
     
     <category term="notes" scheme="https://silentdeep.github.io/categories/notes/"/>
     
+    
+    <category term="chemistry" scheme="https://silentdeep.github.io/tags/chemistry/"/>
     
   </entry>
   
@@ -56,7 +77,7 @@
     <link href="https://silentdeep.github.io/useful-links/"/>
     <id>https://silentdeep.github.io/useful-links/</id>
     <published>2025-07-11T02:59:56.000Z</published>
-    <updated>2025-07-12T00:41:52.266Z</updated>
+    <updated>2025-07-12T04:59:53.046Z</updated>
     
     
       

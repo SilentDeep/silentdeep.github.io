@@ -19,26 +19,27 @@
 
 <script class="next-config" data-name="main" type="application/json">{"hostname":"silentdeep.github.io","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.23.2","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"codeblock":{"theme":{"light":"default","dark":"stackoverflow-dark"},"prism":{"light":"prism","dark":"prism-dark"},"copy_button":{"enable":true,"style":null},"fold":{"enable":false,"height":500},"language":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":true,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.json","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js" defer></script>
 
-    <meta name="description" content="Formula单元格通过计算指明：INDIRECT(&quot;B&quot;&amp;(5*n+2)&amp;&quot;:B&quot;&amp;(5*n+6))).">
+    <meta name="description" content="加密笔记，暂不公开。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Excel">
-<meta property="og:url" content="https://silentdeep.github.io/excel/index.html">
+<meta property="og:title" content="DFT">
+<meta property="og:url" content="https://silentdeep.github.io/dft/index.html">
 <meta property="og:site_name" content="SilentDeep&#39;s Blog">
-<meta property="og:description" content="Formula单元格通过计算指明：INDIRECT(&quot;B&quot;&amp;(5*n+2)&amp;&quot;:B&quot;&amp;(5*n+6))).">
+<meta property="og:description" content="加密笔记，暂不公开。">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2025-07-10T17:08:01.000Z">
-<meta property="article:modified_time" content="2025-07-11T16:51:51.942Z">
+<meta property="article:published_time" content="2025-07-12T07:36:53.000Z">
+<meta property="article:modified_time" content="2025-07-12T08:41:01.811Z">
 <meta property="article:author" content="SilentDeep">
+<meta property="article:tag" content="private">
 <meta name="twitter:card" content="summary">
 
 
-<link rel="canonical" href="https://silentdeep.github.io/excel/">
+<link rel="canonical" href="https://silentdeep.github.io/dft/">
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://silentdeep.github.io/excel/","path":"excel/","title":"Excel"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://silentdeep.github.io/dft/","path":"dft/","title":"DFT"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
-<title>Excel | SilentDeep's Blog</title>
+<title>DFT | SilentDeep's Blog</title>
   
 
 
@@ -70,7 +71,7 @@
 
   
 
-  <script class="next-config" data-name="enableMath" type="application/json">false</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
+  <script class="next-config" data-name="enableMath" type="application/json">true</script><script class="next-config" data-name="mathjax" type="application/json">{"enable":true,"tags":"none","js":{"url":"https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js","integrity":"sha256-MASABpB4tYktI2Oitl4t+78w/lyA+D7b/s9GEP0JOGI="}}</script>
 <script src="/js/third-party/math/mathjax.js" defer></script>
 
 
@@ -166,7 +167,7 @@
       <div class="sidebar-panel-container">
         <!--noindex-->
         <div class="post-toc-wrap sidebar-panel">
-              <div class="post-toc animated"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Formula"><span class="nav-number">1.</span> <span class="nav-text">Formula</span></a></li></ol></div>
+              <div id="toc-div" class="post-toc animated" style="display:none"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%95%B0%E6%8D%AE%E5%BA%93"><span class="nav-number">1.</span> <span class="nav-text">数据库</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%99%B6%E4%BD%93"><span class="nav-number">1.1.</span> <span class="nav-text">晶体</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E6%95%99%E5%AD%A6"><span class="nav-number">2.</span> <span class="nav-text">教学</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E8%AE%A1%E7%AE%97"><span class="nav-number">3.</span> <span class="nav-text">计算</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link"><span class="nav-number">3.1.</span> <span class="nav-text"></span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#LOBSTER-%E9%80%9A%E8%BF%87%E5%B1%80%E5%9F%9F%E5%8C%96%E8%BD%A8%E9%81%93%E5%9F%BA%E7%BB%84%E4%BD%A0%E5%92%8C%E6%99%B6%E4%BD%93%E6%B3%A2%E5%87%BD%E6%95%B0"><span class="nav-number">3.2.</span> <span class="nav-text">LOBSTER 通过局域化轨道基组你和晶体波函数</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E7%BB%98%E5%9B%BE"><span class="nav-number">4.</span> <span class="nav-text">绘图</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#gnuplot-%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BB%98%E5%9B%BE"><span class="nav-number">4.1.</span> <span class="nav-text">gnuplot - 命令行绘图</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%85%B3%E9%94%AE%E8%AF%8D"><span class="nav-number">4.1.1.</span> <span class="nav-text">关键词</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%85%B6%E4%BB%96"><span class="nav-number">4.2.</span> <span class="nav-text">其他</span></a></li></ol></li></ol></div>
         </div>
         <!--/noindex-->
 
@@ -243,7 +244,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://silentdeep.github.io/excel/">
+    <link itemprop="mainEntityOfPage" href="https://silentdeep.github.io/dft/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.gif">
@@ -256,12 +257,12 @@
     </span>
 
     <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
-      <meta itemprop="name" content="Excel | SilentDeep's Blog">
+      <meta itemprop="name" content="DFT | SilentDeep's Blog">
       <meta itemprop="description" content="">
     </span>
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
-          Excel<a href="obsidian://open?vault=my_blog&file=source/_posts/excel.md" class="post-edit-link" title="编辑" rel="noopener" target="_blank"><i class="fa fa-pen-nib"></i></a>
+          DFT<a href="obsidian://open?vault=my_blog&file=source/_posts/dft.md" class="post-edit-link" title="编辑" rel="noopener" target="_blank"><i class="fa fa-pen-nib"></i></a>
         </h1>
 
         <div class="post-meta-container">
@@ -271,15 +272,9 @@
         <i class="far fa-calendar"></i>
       </span>
       <span class="post-meta-item-text">发表于</span>
+      
 
-      <time title="创建时间：2025-07-11 01:08:01" itemprop="dateCreated datePublished" datetime="2025-07-11T01:08:01+08:00">2025-07-11</time>
-    </span>
-    <span class="post-meta-item">
-      <span class="post-meta-item-icon">
-        <i class="far fa-calendar-check"></i>
-      </span>
-      <span class="post-meta-item-text">更新于</span>
-      <time title="修改时间：2025-07-12 00:51:51" itemprop="dateModified" datetime="2025-07-12T00:51:51+08:00">2025-07-12</time>
+      <time title="创建时间：2025-07-12 15:36:53 / 修改时间：16:41:01" itemprop="dateCreated datePublished" datetime="2025-07-12T15:36:53+08:00">2025-07-12</time>
     </span>
     <span class="post-meta-item">
       <span class="post-meta-item-icon">
@@ -287,7 +282,7 @@
       </span>
       <span class="post-meta-item-text">分类于</span>
         <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-          <a href="/categories/computer/" itemprop="url" rel="index"><span itemprop="name">computer</span></a>
+          <a href="/categories/notes/" itemprop="url" rel="index"><span itemprop="name">notes</span></a>
         </span>
     </span>
 
@@ -298,7 +293,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>19</span>
+      <span>307</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -315,8 +310,18 @@
     
     
     
-    <div class="post-body" itemprop="articleBody"><h1 id="Formula"><a href="#Formula" class="headerlink" title="Formula"></a>Formula</h1><p>单元格通过计算指明：<code>INDIRECT(&quot;B&quot;&amp;(5*n+2)&amp;&quot;:B&quot;&amp;(5*n+6)))</code>.</p>
-
+    <div class="post-body" itemprop="articleBody"><div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="窃密失败。" data-whm="加密文章不能被校验。">
+  <script id="hbeData" type="hbeData" data-hmacdigest="7b8f7b8923811aedf3e287656d08d397bf4db74398ff4ca3c3d341f2fa981880">e27a4be7c67eae0c5606c5762a2b080ccdcf988865c1fa5d11df1d49ca125e8dd67aa5c7d1fdff3a31e356a0c765fd4f100d44c443fe08bbf32953f6032b59f69e6b0d99143e7e6828e0422993828c9637eae0d500237aa6b41500f3caad0a87f84f9d6100223cf0e8cb51d79aed8899c5a894bc2c7321b811f07bc8b76804d8245c9fdb37e511b1bcc3db1efa4de182d937fe25f802a85fa3a25bb07f3eb212f1adf0fae8f589e186a75651d0be965695fa36eb9dfbe31128b4e7e846938e76342f088224f849c1ee64039c6514d119d32d4d8e7030b9a1261d8aab44ab7e071565420e26c47b7e8588626682f6612f7cf1aea8369bfb397d27ce72efbd6d15d84f60ddfe4ee0b7fe42b5fdd88dee2b68b777d7f562db6ee5a97e284a0b5a1999f44e3b335fa7a40820dfa430aea3181fcd2e399b4d776dbb52f5099ff4c6f1df6d5c2cc0da89f7c77db5385825b58cb1047124baa31a5acbd1aba7805394f7af000d1a42bf7601d1adbbfa15b90bbf8ba8ef9573b7986e888b3794336f6e607342f4119410c6f23f3f6ccbb8e100643b8351599254f04f9b09ca44f51e613c2ffc9bdd5f6901975fbb9d74bc878769b51bbd9d68001ba3400ceba60354baebd51978a877f5f7f619b69bce5fa56507a90c88ff3d166b39f14a41ceb600a3bd017f9db46a286f207d4ee778a683a93224aab49525520e0b2079cc6319f19369eee60ce9b760e1061ac3ee612e747fa3c9b403dff44042a87fb19a306b6c22dcee5ea742750a74cc4be27be08dc76b3ce0bd35f0fdd84ce48e399ccbdd86f4a7e624358dfbbe4323bc202461866fcb75ba9687b48e11b804026076a3578991c4b0039ce51d7ff1a3369bf9283842137aca1a320425db0351848cbf318f0709cec11fb2a167ff0818e9c038f8f0b08a2272a44e4a1c8540e9052edebfd8bffa85e4664f77557b51c91f7ec3d369b6a66a39722bf66c30078f556a448400130687c95a0687c33cb1525058c53d3e99d9266f4178acbbae2ee0acaaf5a182d71dbd3b360eccaac5dddcd9b7180a9b576d21e0128e5a1760c0460dbb654cd2996cb5c1912caf4284c89fa137bdfeffbc18cb29a85c745171bec44cde504865b482120cd051a32e47d539082aaa942c96f2679650ba3095bbfd5b6f3bf636533169a37399a004817ddf7715faaa6395e0bd993ba5a246fd7e8a7b92bd73404edee1df9642e50f718806672cf854068dbee490131a1db9e97d2765f4eae61868d60bdfa326a4f0a59a4d8e1fdf48f9c1f5330ad87c05357331fd786516a03e5bddace7aa3ae9c4e45858b58f435ebd0a884ccf9eb17b05531f14874607eb9684c6f5e90f6c8912e688f5fdc8da2f3ec8342d46062616138ecb6619f89755ef458cf9b9c8553841dc9aff527e67321de52b6a40fd8d3c98ede9d7c416a16eee3b9407dce2f9567a26dd3070910ca2f39d60b80dc349082cdf1e910848cd5144ddfac14089cc37d63c51607114b0c232cc74586ccd2640574b8befa1268c546e9f18aa27ceaf9d36a34e51edf4a0d1c51be3e4edbc22bd8c2d8d1d2bb20ae06d1f00d0ba1764d4c14d4adbcc04807b3327d1b1a99ac0825a393b8c591c282bc70bfd89d0ec959548d5c78ed03b3fdb3a3829999d624c9cf00e7814dcb0030f8803dfc208bbce652e831258a34ed8e50c9bb2f4e6efba975bbec889dd333ccb2b017b3ad66c16f588da7a0c91af14b92643e9167aaed4de4d7556868604e33996d562bf2f43a99891e164be52e8247620019cee5fc53243bb08e2572660ff2c9ea7c025a0c49e09d04bb67dcb795ca48fe2c5a823a42fe13f6da4a1d67eeb99e98a4523bed3508f73cc96cfeee657f7e576b3bab63aa0e545f5989d74a634e2557e225bda256593d9f21f468dc377e10f28cdabf264690d132e34fe7373ab2a4af2be88ece5c81fb444a0f545edb1b7f7ef3f4f5e6a4f6a10dc247198947c64c0e4fc100268258a13c05a99e3850b5de69fc554e1996583d9f52c8ef56a3b8cd3747c8c3df39a682ed49f495d3768c70c4879fa490436fa82cc1c9be77312ff4a8f279bb7596d137e913b2638b71747b2241b5d2e855cd16a2b8e17865dcff4f6626cacfb335dba829f6c5d66583782f36d5c35a402f8dd0371571b1ad997c69588e2d69947afd864c98494311e6f1e2367afb19ee47a5fd04f980bda9b0f743694cc1d6c12171e87bb93286068e604f382aa54a4afb5c0e40a7133c8e28043e5160856b8cacab564b912b9b6ff0fb7c50c8a9487cea9baaee72facb6b0359ea792d6e27335eaa92c603ccc480b5bca3d47060deee08d536b7a5510cb62b83a707a4c9a00eaf6c6894af100745c0aadfcd6bc47e85738dafbf75736673d337ba22a265baf9972b9ecf1cc103950b75b214614bf871a3cc0b07d320ed100aa16d923effad8ef59042b99b2971ab4f770d31b616b0380ece23f95084d57850248d9b2ec533978e205759f852ab4e92c70bdce2271aea436566ca090b3c235d236bca0b573cbad5654c3cd84e9c9b3faa2c0bcde5a6589bee958a0262f35ed08899bf11327ad6b2bfaeece821ec3bd049f75c8054cf22263d55b608d25114f25a326977c6e716dc76b22085292454f542e4ba47ccbc6dc2423928c2c98f68db33aec3fcf62be04c077a7f867186d7c937b0ed317bed08ef87ee0ca74bd210b538a0b463a7b390c850ff1bbe73ddada9a0cdfcacb6cd59481e6a9d20ef5c278b93ec07bfbb70a862d328c729abb5969f02e9719622a3c34c583e3032042c0437bd4a42b6962c25c2694f001c786c5194f43f9bc422ab4a86ca6eef40163eba8314b3b1468b8aac716c49c192fb613d7178b200f888b7c4b9267a4fc353464046a27f70e24c905d124f1d5622a45f76efab37c38ebb770439c3360d8ded390dfab9e93701e6313664dd5a20ab2b6dc41e5aba9e10f7b0662f57477d179ef956ca294a944c6ed75fe600442278ff49233a52c0c9de63ec64614df6e6cc705b2b769f45b4d0593a5aac68a776e74e0eeb81b5733dccde68c8110f31a6e10f65a279df995f81c527ff0cf25615f87e5d41047f2a0fc52602c185dffe73da63e49b1a9c6a1f5773d0d18c827163d55bfbe3fef5d8599f6ad0218803818acd9b5242606abd3bf40c56af8277c4968f9f6c319048e239a700f5b436765e8be5d359a584b909effd08faf50933225aae4775e6744610f407c36a8df1b75d51dc9254752d01fc7407a70ecd9723d92f130b307c5ebc134a70cfa9b2c28827219966c2c9258ee2bd5194217d762829cd63279bab12b79603333366ec0a61aa680f38862a765852aca13e60b352547a86be564140e18ebb32b05cd74343d10d0fcd9d6310bc928e76d55048180901cd43e36dbf81d1fee876b6ebc6254f402567b932d9898fefd5033930532e4c5242dde25f9796925e83cd21a401c7c140744c71e86416a7248135bb864d0ec15fe350e3dc08e5fbfa4041a69efb15993c6e7c91cd28d927e928baccaaab96e8486aa0984a04fd90b9258a3307c544f264c284f47f1752587091e99737b7fd4e7306c76a03af4aca34ef4ade7b161980e8ee4234c123014397e21a8ed2ca5b1429e18474490b10d299dc62d4a9f4432eae7ffd7e61871ca3d811340a7399f954c1340ef374f0d7187ce46d8a54edbbbba8f1cc8334c5725ea71a648cf6a6c81aee8a0c427e20ced956785455b8eb59681f9e3d483ec5819800184e0f19bba232e2000c1cfdc84ed274c2982ca27a206559d38dcd16df72be5888e4a7b80c561fff8401a938e6f407a034e518687f5924622e5f94c830d1bbf900d266efa125cb48b5ad1a0e8ab361fe780d410997ebb84fc2e191bd2be33159ba5dbe2e4e29f320b99871b80cdc468bf87bb2faa7fdc62190e29f85a29a645114a4b98e566d0b2f25d07c6f62418f5f53e61b3523a9aaf931c78d0bde349c071fc0175a3c554763d4b27f943c7cdde4859ee600b2ae6a39cd687a932cd246d742750f6ae297721d90aa7cdc4f9ef5e4267048e6342945795e6ff63a7689c6dcfc3a86abd39d99f9acb7331aab393ccb4aab502dbfa3a455ddb9bbacbda4a1bd4160361ad807374bb2e89750bab416f2c62034d19b1359b2e5ad0e0551542f1a190947e8b4b88b9c7ebba307a1e751c2dbbad1942086674ebed99f1455529eba55f7385f7385a9be74e8970e82cb9b106fbe23fabea7fc06d7bb217d9c716ceab9739d9076b0148ac48a7d8cea57305f3ce051a3771d99f8c72fdc9eed96f8aabc98c5197b2992b658e5f4b9f7cc30f84528580e4c482d1a48b71ca4588632c0582bdce20e9287ee5357743d488c14f2ee3c4177c64c3fa254b3e89f11b3915da40f33b30966171f259683254c8d2705ee1aa28c1639678eac7adcaa9427b8742f0ea9e5aed80b34f5f5b97922f4cf2b92b03d74dee9bf9728711489cf8c1d21a8a66555ae4a5d090bb234d734aa163935d1a9bad2aa905085fcd7a5a9032fd0271ff7982ea5c9d9f427a4e76743e9dc46a71d76fad62208db3a396c3d05f1a23898f174366e565f7576948c6363e368041cce2fdd2cfc8edb2dc16d8a9fe6789f23ab79f67c7660a41d7177c3afc36b4505c9cd00a16cf520acc0603860768a0ae3ad1714cf5835fb36f3001f28a230d44a3b947b73fbe6d0d75c83d9fff6b7c6c317679800d9c54ea24caf850212aa005e008f65643f1e82b2fa8d9ec84e2425bee23d302e87621e75db2de1bf54437883354c2f67e94b0ff4354cb74258ee1f0e33de2d377704282b8c30b3cb272c76ff6d6ad5274918c90907f2d5b228f5b54a317e57821664754e52e641a3b8471e098fc1dd5fb04494f5b5dcf87b89bc978745aab995bbe492d8065f93e69f3b8adc769b46a28afc06da6df594abc98abcf6a6050a0db4d2f6b9adab9a2711b6d37ad2781eadbbecef58e73a69e2995c008dca91ad9a36ef89786d003ec3d6f5708b39a684ae404a851e02c591a31bdaa86523184603263bc0ba239cee9c96f4421fa40531885b1946f74eb27ec3773a0c0c52fc6b229f47961d30b52350047c0229ea603fa69ca76795bd69b12c436ac411703c0dbd0d64f6c2567f2c9a8031b493cae3ed7278d6d78876b8e799fa23b4f476f3e17378a689ec39ea1770cfd37d55f0d4a59119d2a98c9909e154fd2b358f7c4fb4f0f4522aaebd8ad5e1efdf4f3896b659b480435653bbaa9cca832429f24232fee4601fa20d1129267c44392b2e506a83811847e2c977f0e3422dc86d09f90b3905a573cc70e821936f5b341c29d518ae727e09dac3f7a62812985a8ab88e31b665c210b196bc13d2e7229948ad2f9ee5109030b554530f3e41d5315e0d300986ce3061a4db8de0c492873f425c89f29d1e69795237017910530355395fe89ce3d60266dd201d61d440db01dc3bb4d1666ebfe5a78402879c8fcbb48218f65b6640d82a91e1b4d0d80a069aca870a5f936515ba1b2673778c33030b59b4e79dc700c155dc2d920147a6d855919600c95e98f48e88f5ef9470955b5d9bc75e2c59b9c9c8a593e4de17300156e37ffcd922e3a543576d60e3e48ae5e542d57bd22abf2b1caa6988151cbd449d88439b71bf8f71a4f73261087ddffc41157aa751a44e7354ce4900c8480dc7037b1a229b2b5879a7cfae0a2ef807248e55739e5139fd2e3e17d3b01e805c422a24cab9f258cdc56a896722329687d299c896fbca5762a306012165f6ecad0594afdb6eaa3778f158d0f69c17e7c282c51481e1878ffc735bda8119514618edc19448000c7e50422c00709c84ccd8ab82f6f2f8774700b5194501244ec5888c22a161679543b6dca920fefe96dba975edc9ef763b480af10ce6bbe949a0e0118eceef9b67f6cbfae2d31fb855c79187da94be98d3d4dc0b24f35da115562eb04b17103ae182108ed8460d0fc4c930a21f088052d3df675285d2b55b18851ee8a75c47d412bb5a234d0d6f0ba7d82190a9014b4925c56e03145e3035fd3f30f7fefa243334d1c8a70de59c7aa3fbdf194a4950317bfc4d73ff5fe31a9b631473b77093a44b058c3e93e8e467bca35a3d45b728ed1b9c390845eeebe923c3d4953d4b1bd84a007728820485e181255907fde0e5a9e5203101ed5bf500098a04677ddc1dd351639a1a7fa0abe97fc2268546bb41aa79d7830a911b2992eb3b63c6574edafeb2149d3de583334bdd35b138b9323455cbbbeb9b0c1f1650802630ac31fb0fccc10c5a948ff29984a3731ae246cca10bfff038f6a4f5a46ff5cad74683b2e2c558a526aa1722c0e63b66cd81899cdc52ba3d21d2b162aa43cbe0daf4df53c5eac5573576f42524c7dbcdb43fa94fdfb43a13a675d64c2f0cc75a67d6eb0d772ef3c5db100e1730c28b2592497f898f9a34f09</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码。</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">
     </div>
 
     
@@ -324,19 +329,19 @@
     
 
     <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/private/" rel="tag"># private</a>
+          </div>
 
         
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/argumentative-essay/" rel="prev" title="议论文范文">
-                  <i class="fa fa-angle-left"></i> 议论文范文
+                <a href="/comp-chem/" rel="prev" title="计算化学">
+                  <i class="fa fa-angle-left"></i> 计算化学
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/ffmpeg/" rel="next" title="ffmpeg">
-                  ffmpeg <i class="fa fa-angle-right"></i>
-                </a>
             </div>
           </div>
     </footer>
