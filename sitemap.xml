@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://silentdeep.github.io/argumentative-essay/</loc>
+    
+    <lastmod>2025-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/encrypt-test/</loc>
+    
+    <lastmod>2025-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/comp-chem/</loc>
+    
+    <lastmod>2025-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/useful-links/</loc>
+    
+    <lastmod>2025-07-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://silentdeep.github.io/windows-ssh/</loc>
     
     <lastmod>2025-07-11</lastmod>
@@ -11,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://silentdeep.github.io/useful-links/</loc>
+    <loc>https://silentdeep.github.io/quotation/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -20,7 +56,16 @@
   </url>
   
   <url>
-    <loc>https://silentdeep.github.io/quotation/</loc>
+    <loc>https://silentdeep.github.io/hide-test/</loc>
+    
+    <lastmod>2025-07-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/grammar/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -57,33 +102,6 @@
   
   <url>
     <loc>https://silentdeep.github.io/github-vpn-config/</loc>
-    
-    <lastmod>2025-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/encrypt-test/</loc>
-    
-    <lastmod>2025-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/comp-chem/</loc>
-    
-    <lastmod>2025-07-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/argumentative-essay/</loc>
     
     <lastmod>2025-07-11</lastmod>
     
@@ -139,36 +157,36 @@
 
   <url>
     <loc>https://silentdeep.github.io/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://silentdeep.github.io/tags/private/</loc>
-    <lastmod>2025-07-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://silentdeep.github.io/tags/windows/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://silentdeep.github.io/tags/ssh/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://silentdeep.github.io/tags/encrypted/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -176,22 +194,22 @@
 
   
   <url>
-    <loc>https://silentdeep.github.io/categories/uncategorized/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <loc>https://silentdeep.github.io/categories/notes/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://silentdeep.github.io/categories/notes/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <loc>https://silentdeep.github.io/categories/uncategorized/</loc>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://silentdeep.github.io/categories/computer/</loc>
-    <lastmod>2025-07-11</lastmod>
+    <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
