@@ -162,6 +162,13 @@
   </url>
   
   <url>
+    <loc>https://silentdeep.github.io/tags/private/</loc>
+    <lastmod>2025-07-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://silentdeep.github.io/tags/encrypted/</loc>
     <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,13 +177,6 @@
   
   <url>
     <loc>https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/</loc>
-    <lastmod>2025-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://silentdeep.github.io/tags/private/</loc>
     <lastmod>2025-07-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
