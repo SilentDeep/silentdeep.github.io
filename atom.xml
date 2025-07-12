@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SilentDeep&#39;s Blog</title>
-  <icon>https://silentdeep.github.io/icon.png</icon>
+  <icon>https://silentdeep.vercel.app/icon.png</icon>
   
-  <link href="https://silentdeep.github.io/atom.xml" rel="self"/>
+  <link href="https://silentdeep.vercel.app/atom.xml" rel="self"/>
   
-  <link href="https://silentdeep.github.io/"/>
+  <link href="https://silentdeep.vercel.app/"/>
   <updated>2025-07-12T15:06:15.627Z</updated>
-  <id>https://silentdeep.github.io/</id>
+  <id>https://silentdeep.vercel.app/</id>
   
   <author>
     <name>SilentDeep</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>玻色子与费米子</title>
-    <link href="https://silentdeep.github.io/bosons-fermions/"/>
-    <id>https://silentdeep.github.io/bosons-fermions/</id>
+    <link href="https://silentdeep.vercel.app/bosons-fermions/"/>
+    <id>https://silentdeep.vercel.app/bosons-fermions/</id>
     <published>2025-07-12T14:48:36.000Z</published>
     <updated>2025-07-12T15:06:15.627Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="knowledge" scheme="https://silentdeep.github.io/categories/knowledge/"/>
+    <category term="knowledge" scheme="https://silentdeep.vercel.app/categories/knowledge/"/>
     
     
-    <category term="AIGC" scheme="https://silentdeep.github.io/tags/AIGC/"/>
+    <category term="AIGC" scheme="https://silentdeep.vercel.app/tags/AIGC/"/>
     
-    <category term="physics" scheme="https://silentdeep.github.io/tags/physics/"/>
+    <category term="physics" scheme="https://silentdeep.vercel.app/tags/physics/"/>
     
   </entry>
   
   <entry>
     <title>终端/命令行基本命令</title>
-    <link href="https://silentdeep.github.io/terminal/"/>
-    <id>https://silentdeep.github.io/terminal/</id>
+    <link href="https://silentdeep.vercel.app/terminal/"/>
+    <id>https://silentdeep.vercel.app/terminal/</id>
     <published>2025-07-12T14:05:40.000Z</published>
     <updated>2025-07-12T14:41:21.943Z</updated>
     
@@ -49,17 +49,17 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>软件</title>
-    <link href="https://silentdeep.github.io/software/"/>
-    <id>https://silentdeep.github.io/software/</id>
+    <link href="https://silentdeep.vercel.app/software/"/>
+    <id>https://silentdeep.vercel.app/software/</id>
     <published>2025-07-12T13:31:45.000Z</published>
-    <updated>2025-07-12T13:57:15.900Z</updated>
+    <updated>2025-07-12T15:14:55.318Z</updated>
     
     
       
@@ -72,32 +72,32 @@
     
     
     
-    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    <category term="uncategorized" scheme="https://silentdeep.vercel.app/categories/uncategorized/"/>
     
     
   </entry>
   
   <entry>
     <title>终端/命令行工具</title>
-    <link href="https://silentdeep.github.io/terminal-tools/"/>
-    <id>https://silentdeep.github.io/terminal-tools/</id>
+    <link href="https://silentdeep.vercel.app/terminal-tools/"/>
+    <id>https://silentdeep.vercel.app/terminal-tools/</id>
     <published>2025-07-12T11:19:35.000Z</published>
-    <updated>2025-07-12T14:04:52.439Z</updated>
+    <updated>2025-07-12T15:11:34.877Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;htop-加强版-top&quot;&gt;&lt;a href=&quot;#htop-加强版-top&quot; class=&quot;headerlink&quot; title=&quot;htop - 加强版 top&quot;&gt;&lt;/a&gt;htop - 加强版 top&lt;/h1&gt;</summary>
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>SSH</title>
-    <link href="https://silentdeep.github.io/ssh/"/>
-    <id>https://silentdeep.github.io/ssh/</id>
+    <link href="https://silentdeep.vercel.app/ssh/"/>
+    <id>https://silentdeep.vercel.app/ssh/</id>
     <published>2025-07-12T11:08:31.000Z</published>
     <updated>2025-07-12T14:43:00.333Z</updated>
     
@@ -106,38 +106,15 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Linux</title>
-    <link href="https://silentdeep.github.io/linux/"/>
-    <id>https://silentdeep.github.io/linux/</id>
-    <published>2025-07-12T11:07:53.000Z</published>
-    <updated>2025-07-12T14:28:19.960Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;span</summary>
-        
-      
-    
-    
-    
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>DFT</title>
-    <link href="https://silentdeep.github.io/dft/"/>
-    <id>https://silentdeep.github.io/dft/</id>
+    <link href="https://silentdeep.vercel.app/dft/"/>
+    <id>https://silentdeep.vercel.app/dft/</id>
     <published>2025-07-12T07:36:53.000Z</published>
     <updated>2025-07-12T10:19:12.738Z</updated>
     
@@ -146,17 +123,17 @@
     
     
     
-    <category term="notes" scheme="https://silentdeep.github.io/categories/notes/"/>
+    <category term="notes" scheme="https://silentdeep.vercel.app/categories/notes/"/>
     
     
-    <category term="private" scheme="https://silentdeep.github.io/tags/private/"/>
+    <category term="private" scheme="https://silentdeep.vercel.app/tags/private/"/>
     
   </entry>
   
   <entry>
     <title>计算化学</title>
-    <link href="https://silentdeep.github.io/comp-chem/"/>
-    <id>https://silentdeep.github.io/comp-chem/</id>
+    <link href="https://silentdeep.vercel.app/comp-chem/"/>
+    <id>https://silentdeep.vercel.app/comp-chem/</id>
     <published>2025-07-11T09:46:07.000Z</published>
     <updated>2025-07-12T07:38:35.671Z</updated>
     
@@ -165,17 +142,17 @@
     
     
     
-    <category term="notes" scheme="https://silentdeep.github.io/categories/notes/"/>
+    <category term="notes" scheme="https://silentdeep.vercel.app/categories/notes/"/>
     
     
-    <category term="chemistry" scheme="https://silentdeep.github.io/tags/chemistry/"/>
+    <category term="chemistry" scheme="https://silentdeep.vercel.app/tags/chemistry/"/>
     
   </entry>
   
   <entry>
     <title>Git</title>
-    <link href="https://silentdeep.github.io/git/"/>
-    <id>https://silentdeep.github.io/git/</id>
+    <link href="https://silentdeep.vercel.app/git/"/>
+    <id>https://silentdeep.vercel.app/git/</id>
     <published>2025-07-11T03:27:42.000Z</published>
     <updated>2025-07-11T16:51:41.563Z</updated>
     
@@ -185,17 +162,17 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>有用的链接</title>
-    <link href="https://silentdeep.github.io/useful-links/"/>
-    <id>https://silentdeep.github.io/useful-links/</id>
+    <link href="https://silentdeep.vercel.app/useful-links/"/>
+    <id>https://silentdeep.vercel.app/useful-links/</id>
     <published>2025-07-11T02:59:56.000Z</published>
-    <updated>2025-07-12T14:48:13.734Z</updated>
+    <updated>2025-07-12T15:17:46.552Z</updated>
     
     
       
@@ -208,17 +185,17 @@
     
     
     
-    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    <category term="uncategorized" scheme="https://silentdeep.vercel.app/categories/uncategorized/"/>
     
     
-    <category term="⭐️" scheme="https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/"/>
+    <category term="⭐️" scheme="https://silentdeep.vercel.app/tags/%E2%AD%90%EF%B8%8F/"/>
     
   </entry>
   
   <entry>
     <title>金句分享</title>
-    <link href="https://silentdeep.github.io/quotation/"/>
-    <id>https://silentdeep.github.io/quotation/</id>
+    <link href="https://silentdeep.vercel.app/quotation/"/>
+    <id>https://silentdeep.vercel.app/quotation/</id>
     <published>2025-07-11T02:49:35.000Z</published>
     <updated>2025-07-11T16:53:20.311Z</updated>
     
@@ -227,17 +204,17 @@
     
     
     
-    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    <category term="uncategorized" scheme="https://silentdeep.vercel.app/categories/uncategorized/"/>
     
     
-    <category term="⭐️" scheme="https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/"/>
+    <category term="⭐️" scheme="https://silentdeep.vercel.app/tags/%E2%AD%90%EF%B8%8F/"/>
     
   </entry>
   
   <entry>
     <title>ffmpeg</title>
-    <link href="https://silentdeep.github.io/ffmpeg/"/>
-    <id>https://silentdeep.github.io/ffmpeg/</id>
+    <link href="https://silentdeep.vercel.app/ffmpeg/"/>
+    <id>https://silentdeep.vercel.app/ffmpeg/</id>
     <published>2025-07-10T17:10:35.000Z</published>
     <updated>2025-07-11T16:51:46.422Z</updated>
     
@@ -253,15 +230,15 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>Excel</title>
-    <link href="https://silentdeep.github.io/excel/"/>
-    <id>https://silentdeep.github.io/excel/</id>
+    <link href="https://silentdeep.vercel.app/excel/"/>
+    <id>https://silentdeep.vercel.app/excel/</id>
     <published>2025-07-10T17:08:01.000Z</published>
     <updated>2025-07-11T16:51:51.942Z</updated>
     
@@ -276,15 +253,15 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>议论文范文</title>
-    <link href="https://silentdeep.github.io/argumentative-essay/"/>
-    <id>https://silentdeep.github.io/argumentative-essay/</id>
+    <link href="https://silentdeep.vercel.app/argumentative-essay/"/>
+    <id>https://silentdeep.vercel.app/argumentative-essay/</id>
     <published>2025-07-10T16:40:57.000Z</published>
     <updated>2025-07-12T01:39:54.726Z</updated>
     
@@ -293,17 +270,17 @@
     
     
     
-    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    <category term="uncategorized" scheme="https://silentdeep.vercel.app/categories/uncategorized/"/>
     
     
-    <category term="encrypted" scheme="https://silentdeep.github.io/tags/encrypted/"/>
+    <category term="encrypted" scheme="https://silentdeep.vercel.app/tags/encrypted/"/>
     
   </entry>
   
   <entry>
     <title>GitHub 代理配置</title>
-    <link href="https://silentdeep.github.io/github-vpn-config/"/>
-    <id>https://silentdeep.github.io/github-vpn-config/</id>
+    <link href="https://silentdeep.vercel.app/github-vpn-config/"/>
+    <id>https://silentdeep.vercel.app/github-vpn-config/</id>
     <published>2025-07-10T15:06:42.000Z</published>
     <updated>2025-07-11T16:51:37.309Z</updated>
     
@@ -319,15 +296,15 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
   </entry>
   
   <entry>
     <title>加密博文测试</title>
-    <link href="https://silentdeep.github.io/encrypt-test/"/>
-    <id>https://silentdeep.github.io/encrypt-test/</id>
+    <link href="https://silentdeep.vercel.app/encrypt-test/"/>
+    <id>https://silentdeep.vercel.app/encrypt-test/</id>
     <published>2025-07-10T14:59:06.000Z</published>
     <updated>2025-07-12T01:39:02.320Z</updated>
     
@@ -336,17 +313,17 @@
     
     
     
-    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    <category term="uncategorized" scheme="https://silentdeep.vercel.app/categories/uncategorized/"/>
     
     
-    <category term="encrypted" scheme="https://silentdeep.github.io/tags/encrypted/"/>
+    <category term="encrypted" scheme="https://silentdeep.vercel.app/tags/encrypted/"/>
     
   </entry>
   
   <entry>
     <title>无法用秘钥连接 Windows 的 SSH，你大概少了这步操作</title>
-    <link href="https://silentdeep.github.io/windows-ssh/"/>
-    <id>https://silentdeep.github.io/windows-ssh/</id>
+    <link href="https://silentdeep.vercel.app/windows-ssh/"/>
+    <id>https://silentdeep.vercel.app/windows-ssh/</id>
     <published>2025-07-10T12:42:00.000Z</published>
     <updated>2025-07-11T16:56:43.415Z</updated>
     
@@ -362,12 +339,12 @@
     
     
     
-    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    <category term="computer" scheme="https://silentdeep.vercel.app/categories/computer/"/>
     
     
-    <category term="windows" scheme="https://silentdeep.github.io/tags/windows/"/>
+    <category term="windows" scheme="https://silentdeep.vercel.app/tags/windows/"/>
     
-    <category term="ssh" scheme="https://silentdeep.github.io/tags/ssh/"/>
+    <category term="ssh" scheme="https://silentdeep.vercel.app/tags/ssh/"/>
     
   </entry>
   
