@@ -6,7 +6,7 @@
   <link href="https://silentdeep.github.io/atom.xml" rel="self"/>
   
   <link href="https://silentdeep.github.io/"/>
-  <updated>2025-07-12T09:43:09.705Z</updated>
+  <updated>2025-07-12T15:06:15.627Z</updated>
   <id>https://silentdeep.github.io/</id>
   
   <author>
@@ -17,11 +17,129 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>玻色子与费米子</title>
+    <link href="https://silentdeep.github.io/bosons-fermions/"/>
+    <id>https://silentdeep.github.io/bosons-fermions/</id>
+    <published>2025-07-12T14:48:36.000Z</published>
+    <updated>2025-07-12T15:06:15.627Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;玻色子和费米子是构成宇宙的基本粒子中的两大类，它们之间有几个关键的区别：&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="knowledge" scheme="https://silentdeep.github.io/categories/knowledge/"/>
+    
+    
+    <category term="AIGC" scheme="https://silentdeep.github.io/tags/AIGC/"/>
+    
+    <category term="physics" scheme="https://silentdeep.github.io/tags/physics/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终端/命令行基本命令</title>
+    <link href="https://silentdeep.github.io/terminal/"/>
+    <id>https://silentdeep.github.io/terminal/</id>
+    <published>2025-07-12T14:05:40.000Z</published>
+    <updated>2025-07-12T14:41:21.943Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;查看进程: &lt;code&gt;ps aux&lt;/code&gt;, &lt;code&gt;top&lt;/code&gt;; &lt;code&gt;htop&lt;/code&gt; 更好用但需要安装。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>软件</title>
+    <link href="https://silentdeep.github.io/software/"/>
+    <id>https://silentdeep.github.io/software/</id>
+    <published>2025-07-12T13:31:45.000Z</published>
+    <updated>2025-07-12T13:57:15.900Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;电脑软件&quot;&gt;&lt;a href=&quot;#电脑软件&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>终端/命令行工具</title>
+    <link href="https://silentdeep.github.io/terminal-tools/"/>
+    <id>https://silentdeep.github.io/terminal-tools/</id>
+    <published>2025-07-12T11:19:35.000Z</published>
+    <updated>2025-07-12T14:04:52.439Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;htop-加强版-top&quot;&gt;&lt;a href=&quot;#htop-加强版-top&quot; class=&quot;headerlink&quot; title=&quot;htop - 加强版 top&quot;&gt;&lt;/a&gt;htop - 加强版 top&lt;/h1&gt;</summary>
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>SSH</title>
+    <link href="https://silentdeep.github.io/ssh/"/>
+    <id>https://silentdeep.github.io/ssh/</id>
+    <published>2025-07-12T11:08:31.000Z</published>
+    <updated>2025-07-12T14:43:00.333Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;sshd-设置&quot;&gt;&lt;a href=&quot;#sshd-设置&quot; class=&quot;headerlink&quot; title=&quot;sshd 设置&quot;&gt;&lt;/a&gt;sshd 设置&lt;/h1&gt;&lt;p&gt;&lt;code&gt;/etc/ssh/sshd_config&lt;/code&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Linux</title>
+    <link href="https://silentdeep.github.io/linux/"/>
+    <id>https://silentdeep.github.io/linux/</id>
+    <published>2025-07-12T11:07:53.000Z</published>
+    <updated>2025-07-12T14:28:19.960Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>DFT</title>
     <link href="https://silentdeep.github.io/dft/"/>
     <id>https://silentdeep.github.io/dft/</id>
     <published>2025-07-12T07:36:53.000Z</published>
-    <updated>2025-07-12T09:43:09.705Z</updated>
+    <updated>2025-07-12T10:19:12.738Z</updated>
     
     
     <summary type="html">加密笔记，暂不公开。</summary>
@@ -77,7 +195,7 @@
     <link href="https://silentdeep.github.io/useful-links/"/>
     <id>https://silentdeep.github.io/useful-links/</id>
     <published>2025-07-11T02:59:56.000Z</published>
-    <updated>2025-07-12T04:59:53.046Z</updated>
+    <updated>2025-07-12T14:48:13.734Z</updated>
     
     
       
