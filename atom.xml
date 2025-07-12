@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SilentDeep&#39;s Blog</title>
+  <icon>https://silentdeep.github.io/icon.png</icon>
+  
+  <link href="https://silentdeep.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://silentdeep.github.io/"/>
+  <updated>2025-07-12T02:19:32.524Z</updated>
+  <id>https://silentdeep.github.io/</id>
+  
+  <author>
+    <name>SilentDeep</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算化学</title>
+    <link href="https://silentdeep.github.io/comp-chem/"/>
+    <id>https://silentdeep.github.io/comp-chem/</id>
+    <published>2025-07-11T09:46:07.000Z</published>
+    <updated>2025-07-12T02:19:32.524Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;课程&quot;&gt;&lt;a href=&quot;#课程&quot; class=&quot;headerlink&quot; title=&quot;课程&quot;&gt;&lt;/a&gt;课程&lt;/h1&gt;&lt;p&gt;University of Minnesota Chem 4021&amp;#x2F;8021 &lt;strong&gt;Computational Chemistry&lt;/strong&gt; by Prof. &lt;em&gt;Christopher J. Cramer&lt;/em&gt;: &lt;a href=&quot;https://www.bilibili.com/video/BV1Ts411J79A&quot;&gt;bilibili&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=pu4uL7deCNw&quot;&gt;YouTube&lt;/a&gt;, &lt;a href=&quot;zotero://open-pdf/library/items/VWEDRE5K&quot;&gt;Essentials of Computational Chemistry: Theories and Models&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="notes" scheme="https://silentdeep.github.io/categories/notes/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Git</title>
+    <link href="https://silentdeep.github.io/git/"/>
+    <id>https://silentdeep.github.io/git/</id>
+    <published>2025-07-11T03:27:42.000Z</published>
+    <updated>2025-07-11T16:51:41.563Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;移除已经提交的文件：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;git&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rm&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-r&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;--cached&lt;/span&gt; &lt;span class=&quot;token builtin class-name&quot;&gt;.&lt;/span&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>有用的链接</title>
+    <link href="https://silentdeep.github.io/useful-links/"/>
+    <id>https://silentdeep.github.io/useful-links/</id>
+    <published>2025-07-11T02:59:56.000Z</published>
+    <updated>2025-07-12T00:41:52.266Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;学术&quot;&gt;&lt;a href=&quot;#学术&quot; class=&quot;headerlink&quot; title=&quot;学术&quot;&gt;&lt;/a&gt;学术&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="⭐️" scheme="https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>金句分享</title>
+    <link href="https://silentdeep.github.io/quotation/"/>
+    <id>https://silentdeep.github.io/quotation/</id>
+    <published>2025-07-11T02:49:35.000Z</published>
+    <updated>2025-07-11T16:53:20.311Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;情感&quot;&gt;&lt;a href=&quot;#情感&quot; class=&quot;headerlink&quot; title=&quot;情感&quot;&gt;&lt;/a&gt;情感&lt;/h1&gt;&lt;p&gt;如果注定要分别，那相遇的意义是什么？相遇的意义是被你改变的那部分我，代替你永远陪在了我身边。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="⭐️" scheme="https://silentdeep.github.io/tags/%E2%AD%90%EF%B8%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ffmpeg</title>
+    <link href="https://silentdeep.github.io/ffmpeg/"/>
+    <id>https://silentdeep.github.io/ffmpeg/</id>
+    <published>2025-07-10T17:10:35.000Z</published>
+    <updated>2025-07-11T16:51:46.422Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;压缩视频保留：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-bash&quot; data-language=&quot;bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;ffmpeg &lt;span class=&quot;token parameter</summary>
+        
+      
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Excel</title>
+    <link href="https://silentdeep.github.io/excel/"/>
+    <id>https://silentdeep.github.io/excel/</id>
+    <published>2025-07-10T17:08:01.000Z</published>
+    <updated>2025-07-11T16:51:51.942Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Formula&quot;&gt;&lt;a href=&quot;#Formula&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>议论文范文</title>
+    <link href="https://silentdeep.github.io/argumentative-essay/"/>
+    <id>https://silentdeep.github.io/argumentative-essay/</id>
+    <published>2025-07-10T16:40:57.000Z</published>
+    <updated>2025-07-12T01:39:54.726Z</updated>
+    
+    
+    <summary type="html">出于版权保护以及防止内容被 GitHub 用于训练模型考虑，本文不公开分享，朋友可以联系我索要密码。</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="encrypted" scheme="https://silentdeep.github.io/tags/encrypted/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub 代理配置</title>
+    <link href="https://silentdeep.github.io/github-vpn-config/"/>
+    <id>https://silentdeep.github.io/github-vpn-config/</id>
+    <published>2025-07-10T15:06:42.000Z</published>
+    <updated>2025-07-11T16:51:37.309Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在 &lt;code&gt;~/.gitconfig&lt;/code&gt; 中添加以下内容：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;[http</summary>
+        
+      
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>加密博文测试</title>
+    <link href="https://silentdeep.github.io/encrypt-test/"/>
+    <id>https://silentdeep.github.io/encrypt-test/</id>
+    <published>2025-07-10T14:59:06.000Z</published>
+    <updated>2025-07-12T01:39:02.320Z</updated>
+    
+    
+    <summary type="html">请输入密码查看全文</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://silentdeep.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="encrypted" scheme="https://silentdeep.github.io/tags/encrypted/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无法用秘钥连接 Windows 的 SSH，你大概少了这步操作</title>
+    <link href="https://silentdeep.github.io/windows-ssh/"/>
+    <id>https://silentdeep.github.io/windows-ssh/</id>
+    <published>2025-07-10T12:42:00.000Z</published>
+    <updated>2025-07-11T16:56:43.415Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;打开 &lt;code&gt;C:&#92;ProgramData&#92;ssh&#92;sshd_config&lt;/code&gt; 文件，注释以下内容：&lt;/p&gt;
+&lt;pre class=&quot;line-numbers language-none&quot;&gt;&lt;code class=&quot;language-none&quot;&gt;#</summary>
+        
+      
+    
+    
+    
+    <category term="computer" scheme="https://silentdeep.github.io/categories/computer/"/>
+    
+    
+    <category term="windows" scheme="https://silentdeep.github.io/tags/windows/"/>
+    
+    <category term="ssh" scheme="https://silentdeep.github.io/tags/ssh/"/>
+    
+  </entry>
+  
+</feed>
