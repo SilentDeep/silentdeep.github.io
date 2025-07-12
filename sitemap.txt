@@ -4,8 +4,6 @@ https://silentdeep.github.io/comp-chem/
 https://silentdeep.github.io/useful-links/
 https://silentdeep.github.io/windows-ssh/
 https://silentdeep.github.io/quotation/
-https://silentdeep.github.io/hide-test/
-https://silentdeep.github.io/grammar/
 https://silentdeep.github.io/excel/
 https://silentdeep.github.io/ffmpeg/
 https://silentdeep.github.io/git/
