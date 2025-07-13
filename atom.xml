@@ -59,7 +59,7 @@
     <link href="https://silentdeep.vercel.app/software/"/>
     <id>https://silentdeep.vercel.app/software/</id>
     <published>2025-07-12T13:31:45.000Z</published>
-    <updated>2025-07-12T15:14:55.318Z</updated>
+    <updated>2025-07-13T02:26:56.229Z</updated>
     
     
       
@@ -99,10 +99,10 @@
     <link href="https://silentdeep.vercel.app/ssh/"/>
     <id>https://silentdeep.vercel.app/ssh/</id>
     <published>2025-07-12T11:08:31.000Z</published>
-    <updated>2025-07-12T14:43:00.333Z</updated>
+    <updated>2025-07-13T03:12:47.791Z</updated>
     
     
-    <summary type="html">&lt;h1 id=&quot;sshd-设置&quot;&gt;&lt;a href=&quot;#sshd-设置&quot; class=&quot;headerlink&quot; title=&quot;sshd 设置&quot;&gt;&lt;/a&gt;sshd 设置&lt;/h1&gt;&lt;p&gt;&lt;code&gt;/etc/ssh/sshd_config&lt;/code&gt;&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;sshd-设置&quot;&gt;&lt;a href=&quot;#sshd-设置&quot; class=&quot;headerlink&quot; title=&quot;sshd 设置&quot;&gt;&lt;/a&gt;sshd 设置&lt;/h1&gt;&lt;p&gt;macOS 或 Linux: &lt;code&gt;/etc/ssh/sshd_config&lt;/code&gt;, Windows: &lt;code&gt;C:&#92;ProgramData&#92;ssh&#92;sshd_config&lt;/code&gt;&lt;/p&gt;</summary>
     
     
     
@@ -135,7 +135,7 @@
     <link href="https://silentdeep.vercel.app/comp-chem/"/>
     <id>https://silentdeep.vercel.app/comp-chem/</id>
     <published>2025-07-11T09:46:07.000Z</published>
-    <updated>2025-07-12T07:38:35.671Z</updated>
+    <updated>2025-07-13T04:13:33.942Z</updated>
     
     
     <summary type="html">&lt;h1 id=&quot;课程&quot;&gt;&lt;a href=&quot;#课程&quot; class=&quot;headerlink&quot; title=&quot;课程&quot;&gt;&lt;/a&gt;课程&lt;/h1&gt;&lt;p&gt;University of Minnesota Chem 4021&amp;#x2F;8021 &lt;strong&gt;Computational Chemistry&lt;/strong&gt; by Prof. &lt;em&gt;Christopher J. Cramer&lt;/em&gt;: &lt;a href=&quot;https://www.bilibili.com/video/BV1Ts411J79A&quot;&gt;bilibili&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=pu4uL7deCNw&quot;&gt;YouTube&lt;/a&gt;, &lt;a href=&quot;zotero://open-pdf/library/items/VWEDRE5K&quot;&gt;Essentials of Computational Chemistry: Theories and Models&lt;/a&gt;.&lt;/p&gt;</summary>
