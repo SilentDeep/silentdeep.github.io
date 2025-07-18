@@ -30,5 +30,5 @@ https://silentdeep.github.io/tags/windows/
 https://silentdeep.github.io/tags/ssh/
 https://silentdeep.github.io/categories/notes/
 https://silentdeep.github.io/categories/knowledge/
-https://silentdeep.github.io/categories/computer/
 https://silentdeep.github.io/categories/uncategorized/
+https://silentdeep.github.io/categories/computer/
